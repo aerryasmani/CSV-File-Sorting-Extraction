@@ -1,4 +1,4 @@
-# New Employees 2020 CSV File Sorting & Extraction
+#  CSV File Sorting & Extraction
 
 This script sorts CSV files from each month's subfolder into a new folder named `NewEmployees2020Clean` while preserving the original copies.
 
